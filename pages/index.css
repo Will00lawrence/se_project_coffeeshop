@@ -35,7 +35,7 @@
 }
 .nav__logo {
   position: relative;
-  left: -50;
+  left: -50px;
   width: 105px;
   height: 39px;
 }
@@ -147,8 +147,8 @@
 }
 
 .recipes__iframe {
-  height: 273;
-  width: 480;
+  height: 273px;
+  width: 480px;
   border: none;
 }
 

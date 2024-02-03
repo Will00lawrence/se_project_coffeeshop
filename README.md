@@ -13,4 +13,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+- Adding more color to the home page
+- Adding thicker font and background color to the menu cards for easier reading
+- Add a slider for number of guests instead of text box on the book a table form
+- Change the font color on the menu page to make it more appealing

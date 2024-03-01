@@ -22,7 +22,7 @@
 .nav__link {
   color: #000000;
   text-decoration: none;
-  font-family: "Inter", "Noto Serif", "arial";
+  font-family: "Inter", "arial", "sans-seirf";
   font-style: normal;
   font-weight: 500;
   font-size: 16px;

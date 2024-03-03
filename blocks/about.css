@@ -15,7 +15,7 @@
   z-index: 1;
   position: relative;
   max-width: 251px;
-  font-family: "Inter", "arial", "sans-seirf";
+  font-family: "Inter", "arial", sans-serif;
   font-style: normal;
   font-size: 44px;
   line-height: 52px;
@@ -35,7 +35,7 @@
   max-width: 660px;
   z-index: 1;
   position: relative;
-  font-family: "Noto Serif", "times new roman", "serif";
+  font-family: "Noto Serif", "times new roman", serif;
   font-style: normal;
   font-weight: normal;
   padding-top: 19px;
